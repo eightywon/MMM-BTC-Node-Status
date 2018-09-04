@@ -1,0 +1,11 @@
+.MMM-BTC-Node-Status {
+    font-size: 24px;
+}
+
+.MMM-BTC-Node-Status td {
+    padding: 2px;
+}
+
+.MMM-BTC-Node-Status table {
+    border-spacing: 2px;
+}
